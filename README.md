@@ -3,7 +3,7 @@
 
 <h3 align="center"> Programador | Criador de Conteúdo | Aluno | Javeiro  </h3>
 
-- 🔭Atualmente estou trabalhando em **Desenvolvimento Java**
+- 🔭Atualmente estou trabalhando em **Desenvolvimento Java - IBM**
 
 - 🌱 Atualmente estou aprendendo  **C#**
 
