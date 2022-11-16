@@ -68,6 +68,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HilquiasCamelo&layout=compact)](https://github.com/HilquiasCamelo)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HilquiasCamelo&show_icons=true&theme=dracula)
 <h3 align="left">Languages and Tools:</h3>
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
