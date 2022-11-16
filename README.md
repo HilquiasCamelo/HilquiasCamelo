@@ -66,7 +66,7 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=HilquiasCamelo&bg_color=f5f5f5&color=534652&line=000000&point=413f3e&area=true&hide_border=true)](https://github.com/HilquiasCamelo/github-readme-activity-graph)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HilquiasCamelo)](https://github.com/HilquiasCamelo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HilquiasCamelo&layout=compact)](https://github.com/HilquiasCamelo)
 
 <h3 align="left">Languages and Tools:</h3>
 
