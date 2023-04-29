@@ -5,7 +5,7 @@
 
 - 🔭Atualmente estou trabalhando em **Desenvolvimento Java - IBM**
 
-- 🌱 Atualmente estou aprendendo  **C#**
+- 🌱Atualmente estou aprendendo **C#**, **Java**, **Python**, **JavaScript (Node.js)**, **Ruby**, **PHP**, **C++**, **Kotlin**, **Go** e **Swift**, bem **ReactJS**, **AngularJS**, **VueJS**, **Bootstrap**, **Materialize CSS**, **Foundation**, **Semantic UI**, **Bulma**, **Tailwind CSS** e **Ant Design**. Afinal, o aprendizado é um processo contínuo e nunca podemos considerar que sabemos o suficiente, sempre há algo novo a ser descoberto.
 
 - 👯 Estou procurando colaborar em **Open Source**
 
